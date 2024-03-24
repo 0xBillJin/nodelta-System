@@ -45,10 +45,14 @@
     欢迎赞助开发者（0xBillJin），你们的认可是我前进的动力。
 
     BTC 地址： bc1pnqyc5ne43m2wgh6j7l4sm2s0ynsdxxw8d4npd28ey23h437tcpfsj8qfch
-    ![alt text](BTC链_赞助地址.png)
+<p align="center">
+  <img src ="https://raw.githubusercontent.com/0xBillJin/nodelta-System/main/BTC%E9%93%BE_%E8%B5%9E%E5%8A%A9%E5%9C%B0%E5%9D%80.png"/, width=250>
+</p>
 
     EVM 链（ETH、BSC、Polygon、ARB、OP）地址： 0x64923162709A0bF5e2c02B034B7b11fFA17Aa762
-    ![alt text](evm链_赞助地址.png)
+<p align="center">
+  <img src ="https://raw.githubusercontent.com/0xBillJin/nodelta-System/main/evm%E9%93%BE_%E8%B5%9E%E5%8A%A9%E5%9C%B0%E5%9D%80.png"/, width=250>
+</p>
 
 # 欢迎注册：
 

@@ -1,0 +1,6 @@
+.venv/
+log/*
+!log/.gitkeep
+OutPut/*
+!OutPut/.gitkeep
+example/log_example/*
